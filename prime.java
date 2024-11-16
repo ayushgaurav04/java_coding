@@ -24,6 +24,6 @@ public class prime {
             }
         }
         
-        sc.close();
+        sc.close(); // closed the scanner
     }
 }
